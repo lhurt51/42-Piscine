@@ -1,0 +1,6 @@
+dn: uid=lhurt,ou=july,ou=2016,ou=people,dc=42,dc=us,dc=org
+changetype: modify
+delete: mobile
+-
+add: mobile
+mobile: 530-330-9142

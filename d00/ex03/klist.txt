@@ -1,0 +1,6 @@
+Credentials cache: API:19814
+        Principal: lhurt@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 12 14:40:44 2016  Jul 13 00:40:44 2016  krbtgt/42.US.ORG@42.US.ORG
+Jul 12 18:09:38 2016  Jul 13 00:40:44 2016  host/vgs-fn1.42.us.org@42.US.ORG
